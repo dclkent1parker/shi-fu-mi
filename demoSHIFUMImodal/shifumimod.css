@@ -171,10 +171,13 @@ button:active{
         background-color:lightgrey;
     }
     #left{
+        display: inline-flex;
         width:20%;
         height:100%;
         margin-top: auto;
         margin-bottom: auto;
+        margin-left: inherit;
+        margin-right: inherit;
         padding-right: 5%;
         padding-left:5%;
     }
