@@ -75,7 +75,7 @@ li img{
     background-color:red;
 }
 li img:hover{
-    background-color:red;
+    background-color:yellow;
     transition: 500ms;
     cursor: pointer;
 }
